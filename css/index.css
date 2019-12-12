@@ -1,9 +1,3 @@
-body {
-	margin-bottom: 2000px;
-}
-
-
-
 /* Navber */
 .navbar {
 	z-index: 1;
@@ -55,6 +49,14 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+
+/* Skills */
+.skill h2 {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 
