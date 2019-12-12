@@ -31,7 +31,8 @@
 }
 
 .parallax img {
-	margin-top: 100px;
+	margin-top: 25px;
+	width: 150px;
 }
 
 .parallax .container {
@@ -42,7 +43,7 @@
   background-image: url("../aset/img/2.jpg");
 
   /* Set a specific height */
-  min-height: 100px; 
+  min-height: 250px; 
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -52,11 +53,25 @@
 }
 
 
+
+
 /* Skills */
 .skill h2 {
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
+}
+
+
+/* Footer */
+.footer {
+	margin-top: -48px;
+}
+
+
+/* fORM */
+.form-group {
+	color: white !important;
 }
 
 
@@ -109,6 +124,12 @@
 }
 
 
+.parallax img {
+	width: 200px;
+	margin-top: 100px;
+}
+
+
 .Portofolio h2 {
 	color: white !important;
 }
@@ -123,5 +144,16 @@
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 30px;
+}
+
+
+.media-body {
+	margin-bottom: 30px;
+}
+
+
+.footer {
+	margin-top: -48px;
+	background-color: black !important;
 }
 }
